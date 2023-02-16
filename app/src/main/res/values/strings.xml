@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TwoActivityBioApp</string>
+
+    <string name="gradYear">Graduation Year</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="school">School</string>
+    <string name="favActs">Favorite Activities</string>
+    <string name="deg">Degree</string>
+
+    <string-array name="spinnerItems">
+        <item>Choose Your Major</item>
+        <item>Computer Science</item>
+        <item>Robotics</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Architectural Engineering</item>
+        <item>Mathematics</item>
+        <item>Bio Chemistry</item>
+    </string-array>
+
+</resources>
